@@ -1,0 +1,9 @@
+[submodule "components/curses-go"]
+	path = components/curses-go
+	url = https://github.com/yhowe/curses-go.git
+[submodule "components/ODROID-GO"]
+	path = components/ODROID-GO
+	url = https://github.com/yhowe/ODROID-GO.git
+[submodule "components/arduino-esp32"]
+	path = components/arduino-esp32
+	url = https://github.com/espressif/arduino-esp32.git

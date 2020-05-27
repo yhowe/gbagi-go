@@ -1,0 +1,10 @@
+#define B_A		0x001
+#define B_B		0x002
+#define B_MENU		0x004
+#define B_VOLUME	0x008
+#define B_START		0x010
+#define B_SELECT	0x020
+#define B_UP		0x040
+#define B_DOWN		0x080
+#define B_LEFT		0x100
+#define B_RIGHT		0x200

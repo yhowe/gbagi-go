@@ -1,0 +1,6 @@
+PROG=	rominject
+SRCS=	commands.cpp decompress.cpp makerom.cpp verdef.cpp 
+NOMAN=	1
+CFLAGS+=-Wno-pointer-to-int-cast
+.include <bsd.prog.mk>
+
